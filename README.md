@@ -72,3 +72,5 @@ While their original source code is not public, an open-source implementation ex
 Edit 16 Feb '22: [Dan Petro](https://bishopfox.com/authors/dan-petro) created the tool UnRedacter ([write-up](https://bishopfox.com/blog/unredacter-tool-never-pixelation), [source](https://github.com/BishopFox/unredacter)) to crack a [challenge](https://labs.jumpsec.com/can-depix-deobfuscate-your-data/) that was created as a response to Depix!
 
 Still, anyone who is passionate about this type of depixelization is encouraged to implement their own HMM-based version and share it.
+
+## 这是一个2022年很火的python项目
